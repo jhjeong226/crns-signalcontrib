@@ -1,5 +1,4 @@
-# crns-signalcontrib
-CRNS Signal contribution and practical footprint calculations
+# [CRNS] Signal Contribution and practical footprint estimations
 
-Jupyter Notebook file so play with field areas, footprints, and signal contributions. Try out interactively on Binder!
+Run the Jupyter Notebook file to play with field areas, footprints, and signal contributions. Try out interactively on Binder!
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mschroen/crns-signalcontrib/HEAD)
