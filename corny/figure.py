@@ -46,4 +46,6 @@ class Figure:
             self.fig.savefig(self.save, bbox_inches='tight', frameon=False, dpi=self.save_dpi)
             plt.show()
             plt.close()
+        else:
+            plt.show()
             
