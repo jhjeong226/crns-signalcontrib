@@ -1,4 +1,4 @@
-glob
+glob3
 scipy
 ipywidgets
 numpy
