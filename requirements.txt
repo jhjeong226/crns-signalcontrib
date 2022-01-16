@@ -1,7 +1,6 @@
-glob3
-scipy
-ipywidgets
 numpy
 pandas
 matplotlib
+scipy
 PIL
+ipywidgets
