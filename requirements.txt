@@ -4,3 +4,5 @@ matplotlib
 scipy
 Pillow
 ipywidgets
+# following is required to get %matplotlib widget to work on Binder
+ipympl
