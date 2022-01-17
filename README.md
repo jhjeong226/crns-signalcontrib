@@ -6,7 +6,7 @@ Run the Jupyter Notebook file to play with field areas, footprints, and signal c
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mschroen/crns-signalcontrib/HEAD)
 
 Interactively estimate the contribution of remote fields:  
-![Interactively estimate the contribution of remote fields](docs/practical_footprint.png)
+![Interactively estimate the contribution of remote fields](docs/field_at_distance.png)
 
 Interactively calculate the practical footprint distance:  
 ![Interactively calculate the practical footprint distance](docs/practical_footprint.png)
