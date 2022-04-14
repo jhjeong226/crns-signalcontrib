@@ -2,8 +2,11 @@
 
 ## Interactive calculations
 
-Run the Jupyter Notebook file to play with field areas, footprints, and signal contributions. Try out interactively on Binder!  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mschroen/crns-signalcontrib/HEAD)
+Run the Jupyter Notebook file to play with field areas, footprints, and signal contributions.
+
+### Run it online
+
+Try it out interactively on Binder! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mschroen/crns-signalcontrib/HEAD)
 
 Interactively estimate the contribution of remote fields:  
 ![Interactively estimate the contribution of remote fields](docs/field_at_distance.png)
