@@ -1,4 +1,6 @@
-# [CRNS] Signal Contribution and practical footprint estimations
+[![DOI](https://zenodo.org/badge/448658297.svg)](https://zenodo.org/badge/latestdoi/448658297)
+
+# Signal Contribution and practical footprint estimations for cosmic-ray neutron sensors (CRNS)
 
 ## Interactive calculations
 
@@ -6,7 +8,8 @@ Run the Jupyter Notebook file to play with field areas, footprints, and signal c
 
 ### Run it online
 
-Try it out interactively on Binder! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mschroen/crns-signalcontrib/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mschroen/crns-signalcontrib/HEAD)  
+Try it out interactively on Binder!
 
 Interactively estimate the contribution of remote fields:  
 ![Interactively estimate the contribution of remote fields](docs/field_at_distance.png)
