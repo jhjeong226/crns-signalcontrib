@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/448658297.svg)](https://zenodo.org/badge/latestdoi/448658297)
+[![Code](https://zenodo.org/badge/448658297.svg)](https://zenodo.org/badge/latestdoi/448658297)
 [![Based on Schrön et al. (2023), HESS](https://img.shields.io/static/v1?label=Publication&message=10.5194/hess-27-723-2023&color=yellow)](https://doi.org/10.5194/hess-27-723-2023)
 
 # Signal Contribution and practical footprint estimations for cosmic-ray neutron sensors (CRNS)
