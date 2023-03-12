@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/448658297.svg)](https://zenodo.org/badge/latestdoi/448658297)
+[![Based on Schrön et al. (2023), HESS](https://img.shields.io/static/v1?label=Publication&message=10.5194/hess-27-723-2023&color=yellow)](https://doi.org/10.5194/hess-27-723-2023)
 
 # Signal Contribution and practical footprint estimations for cosmic-ray neutron sensors (CRNS)
 
@@ -30,3 +31,7 @@ The scripts can be used locally with own data.
 4. Launch the Jupyter notebook
 5. Select paths to your own scenario images
 6. Run and have fun :-)
+
+## Cite as:
+
+> Schrön, M., Köhli, M., and Zacharias, S.: Signal contribution of distant areas to cosmic-ray neutron sensors – implications for footprint and sensitivity, Hydrol. Earth Syst. Sci., 27, 723–738, [doi:10.5194/hess-27-723-2023](https://doi.org/10.5194/hess-27-723-2023), 2023.
