@@ -17,9 +17,9 @@ def extract_pc_data():
     print("🔍 Extracting PC Observatory Data...")
     
     # File paths
-    geo_file = r"E:\02.Data\01.Raw\18.CRNP_ML\PC\geo_locations_PC.xlsx"
-    crnp_file = r"E:\02.Data\01.Raw\18.CRNP_ML\PC\PC_CRNP_input.xlsx" 
-    fdr_file = r"E:\02.Data\01.Raw\18.CRNP_ML\PC\PC_FDR_daily_depths.xlsx"
+    geo_file = r"E:\02.Data\05.CRNP\crns-signalcontrib\Raw_data\site_PC\geo_locations_PC.xlsx"
+    crnp_file = r"E:\02.Data\05.CRNP\crns-signalcontrib\Raw_data\site_PC\PC_CRNP_input.xlsx" 
+    fdr_file = r"E:\02.Data\05.CRNP\crns-signalcontrib\Raw_data\site_PC\PC_FDR_daily_depths.xlsx"
     
     # ================================
     # 1. Site Information from geo_locations_PC.xlsx
