@@ -140,10 +140,10 @@ def extract_pc_data():
     fdr_10cm['Month'] = fdr_10cm['Date'].dt.month
     
     seasonal_data = {
-        'spring': {'avg_humidity': abs_humidity_summer * 0.7, 'avg_soil_moisture': 0.25},
-        'summer': {'avg_humidity': abs_humidity_summer, 'avg_soil_moisture': 0.20},
-        'autumn': {'avg_humidity': abs_humidity_summer * 0.5, 'avg_soil_moisture': 0.22},
-        'winter': {'avg_humidity': abs_humidity_winter, 'avg_soil_moisture': 0.28}
+        'spring': {'avg_humidity': abs_humidity_summer * 0.7, 'avg_soil_moisture': 0.20},
+        'summer': {'avg_humidity': abs_humidity_summer, 'avg_soil_moisture': 0.38},
+        'autumn': {'avg_humidity': abs_humidity_summer * 0.5, 'avg_soil_moisture': 0.28},
+        'winter': {'avg_humidity': abs_humidity_winter, 'avg_soil_moisture': 0.05}
     }
     
     # Calculate actual seasonal averages if data available
